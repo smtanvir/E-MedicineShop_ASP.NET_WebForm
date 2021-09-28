@@ -1,0 +1,207 @@
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\eMedicineShop.dll.config
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\eMedicineShop.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\eMedicineShop.pdb
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csc.exe
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csc.exe.config
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csc.rsp
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csi.exe
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csi.exe.config
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csi.rsp
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.AppContext.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Console.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\vbc.exe
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\vbc.exe.config
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\vbc.rsp
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Antlr3.Runtime.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.SqlServer.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Newtonsoft.Json.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Owin.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Optimization.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Providers.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\WebGrease.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Optimization.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Newtonsoft.Json.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Antlr3.Runtime.pdb
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.SqlServer.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Providers.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.Migrations.MedicineDbSecurity.resources
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csproj.GenerateResource.cache
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csproj.CoreCompileInputs.cache
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csproj.CopyComplete
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.dll
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.pdb
+C:\Users\SHARIF MAHIUDDIN\Desktop\AS.NET Final Project on Pharmacy\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csprojAssemblyReference.cache
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\eMedicineShop.dll.config
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\eMedicineShop.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\eMedicineShop.pdb
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csc.exe
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csc.exe.config
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csc.rsp
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csi.exe
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csi.exe.config
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\csi.rsp
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.AppContext.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Collections.Immutable.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Console.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.Compression.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.FileSystem.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.IO.Pipes.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.AccessControl.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Claims.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.ValueTuple.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.XPath.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\vbc.exe
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\vbc.exe.config
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\vbc.rsp
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\VBCSCompiler.exe
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\roslyn\VBCSCompiler.exe.config
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Antlr3.Runtime.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\AspNet.ScriptManager.jQuery.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.SqlServer.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Google.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Web.Infrastructure.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Newtonsoft.Json.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Owin.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Optimization.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Providers.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\WebGrease.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Optimization.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Newtonsoft.Json.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Antlr3.Runtime.pdb
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\EntityFramework.SqlServer.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\System.Web.Providers.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Google.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.Migrations.MedicineDbSecurity.resources
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csproj.GenerateResource.cache
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csproj.CoreCompileInputs.cache
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.csproj.CopyComplete
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.dll
+D:\ESAD-CS\ASP.NET\1260319_Sharif_Mahiuddin_Final_Project_ASP.NET\eMedicineShop_Solution\eMedicineShop\obj\Debug\eMedicineShop.pdb
